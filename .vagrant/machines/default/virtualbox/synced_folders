@@ -1,0 +1,1 @@
+{"virtualbox":{"/assets/vid":{"guestpath":"/assets/vid","hostpath":"E:/coding/devops/bash-scripting/tooplate/vid","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/coding/devops/bash-scripting/tooplate","disabled":false,"__vagrantfile":true}}}
